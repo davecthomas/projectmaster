@@ -1,5 +1,15 @@
-# projectmaster
-Google Sheets Gantt Chart 
+# ProjectMaster Google Sheets Gantt Chart 
+
+## Installation
+1. Upload the XLS file to Google Sheets 
+1. Open as Google Sheets
+1. Copy the Code.gs file contents into your clipboard
+1. In your sheet, go to Tools->Script editor 
+1. Paste the contents over the default file
+1. Save and run the file
+1. You should see a new menu ProjectMaster
+
+## Use
 
 ## Columns
 
